@@ -7,9 +7,9 @@ This project focuses on replicating the smooth and immersive video browsing expe
 
 ## 🔻 Preview
 
-![Imagen de WhatsApp 2025-07-24 a las 09 57 30_3fc03712](https://github.com/user-attachments/assets/d81f4dc3-ce77-4221-abd7-26272d908e41)
+<img src="https://github.com/user-attachments/assets/d81f4dc3-ce77-4221-abd7-26272d908e41" width="300"/>
 
-![Imagen de WhatsApp 2025-07-24 a las 09 57 30_989c47fb](https://github.com/user-attachments/assets/f3be9f68-1a11-480a-bda9-34edc0d0876e)
+<img src="https://github.com/user-attachments/assets/f3be9f68-1a11-480a-bda9-34edc0d0876e" width="300"/>
 
 
 > 📍 Screenshots showing vertical video feed and fullscreen playback.
