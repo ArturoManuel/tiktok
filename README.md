@@ -1,16 +1,25 @@
-# tiktok
+# 📱 TikTok Clone – Local Video Playback with Flutter
 
-A new Flutter project.
+A Flutter application that simulates a **YouTube/TikTok-style video interface** using **locally stored videos**.  
+This project focuses on replicating the smooth and immersive video browsing experience found in short-form video platforms, without requiring an internet connection.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔻 Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Imagen de WhatsApp 2025-07-24 a las 09 57 30_3fc03712](https://github.com/user-attachments/assets/d81f4dc3-ce77-4221-abd7-26272d908e41)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Imagen de WhatsApp 2025-07-24 a las 09 57 30_989c47fb](https://github.com/user-attachments/assets/f3be9f68-1a11-480a-bda9-34edc0d0876e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+> 📍 Screenshots showing vertical video feed and fullscreen playback.
+
+---
+
+## 🚀 Features
+
+- Vertical feed with scrollable video playback
+- Smooth transitions and fullscreen video display
+- Custom video player built with `video_player` package
+- Locally stored media for fast and offline performance
+- Simple, clean UI inspired by modern video apps
